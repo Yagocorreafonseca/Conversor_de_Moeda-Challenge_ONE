@@ -1,6 +1,6 @@
 package Modelos;
 
-import com.google.gson.annotations.SerializedName;
+
 
 public class Moeda {
     private String nome1;
